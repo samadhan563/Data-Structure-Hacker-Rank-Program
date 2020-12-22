@@ -82,3 +82,14 @@ public class MakingCandies {
         scanner.close();
     }
 }
+/*OUtput:
+Input (stdin)
+
+3 1 2 12
+Your Output (stdout)
+
+3
+Expected Output
+
+3
+*/
