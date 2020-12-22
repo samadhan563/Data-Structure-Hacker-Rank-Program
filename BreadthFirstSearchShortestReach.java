@@ -115,3 +115,23 @@ public class BreadthFirstSearchShortestReach {
         scanner.close();
     }
 }
+/*Output:
+Input (stdin)
+
+2
+4 2
+1 2
+1 3
+1
+3 1
+2 3
+2
+Your Output (stdout)
+
+6 6 -1
+-1 6
+Expected Output
+
+6 6 -1
+-1 6
+*/
