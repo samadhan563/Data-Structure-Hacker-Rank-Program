@@ -59,3 +59,18 @@ static int getMinimumCost(int k, int[] c)
         scanner.close();
     }
 }
+
+
+/*OUTPUT:
+
+Input (stdin)
+
+3 3
+2 5 6
+Your Output (stdout)
+
+13
+Expected Output
+
+13
+*/
