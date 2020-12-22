@@ -56,3 +56,17 @@ public class MissingNumbers
         return min;
     }
 }
+/* OUTPUT:
+Input (stdin)
+
+10
+203 204 205 206 207 208 203 204 205 206
+13
+203 204 204 205 206 207 205 208 203 206 205 206 204
+Your Output (stdout)
+
+204 205 206 
+Expected Output
+
+204 205 206
+*/
