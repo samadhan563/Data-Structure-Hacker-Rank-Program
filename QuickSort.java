@@ -46,3 +46,20 @@ return arr;
             int arrItem = Integer.parseInt(arrItems[i]);
             arr[i] = arrItem;
         }
+/*Output:
+Score: 0
+
+Input (stdin)
+
+5
+4 5 3 7 2
+Your Output (stdout)
+
+2 3 4 5 7
+Expected Output
+
+3 2 4 5 7
+Compiler Message
+
+Success
+*/
