@@ -469,3 +469,29 @@ public class BSTMaintenance {
             System.out.println(Arrays.deepToString(o));
     }
 }
+/*Output:
+Input (stdin)
+
+8
+4 7 3 1 8 2 6 5
+Your Output (stdout)
+
+0
+1
+4
+10
+20
+35
+52
+76
+Expected Output
+
+0
+1
+4
+10
+20
+35
+52
+76
+*/
