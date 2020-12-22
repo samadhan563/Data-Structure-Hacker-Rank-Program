@@ -18,3 +18,11 @@
         return flag;
     }
 /*Output:
+Input (stdin)
+2
+1 2 3 4 5 6 7
+Your Output (stdout)
+Yes
+Expected Output
+Yes
+*/
