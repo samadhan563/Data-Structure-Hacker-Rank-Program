@@ -131,3 +131,21 @@ public class Solution {
         scanner.close();
     }
 }
+/*Output:
+Input (stdin)
+1
+1
+3
+1
+2
+3
+1
+1
+Your Output (stdout)
+
+2
+Expected Outpu
+2
+
+*/
+
