@@ -55,3 +55,21 @@ public class InsertionSort1 {
         scanner.close();
     }
 }
+
+/*
+5
+2 4 6 8 3
+Your Output (stdout)
+
+2 4 6 8 8
+2 4 6 6 8
+2 4 4 6 8
+2 3 4 6 8
+Expected Output
+
+2 4 6 8 8
+2 4 6 6 8
+2 4 4 6 8
+2 3 4 6 8
+
+*/
