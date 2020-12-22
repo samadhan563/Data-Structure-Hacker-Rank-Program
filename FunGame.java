@@ -50,3 +50,27 @@ public class FunGame
         }
     }
 }
+/*OutPut:
+Input (stdin)
+
+3
+3
+1 3 4
+5 3 1
+2
+1 1
+1 1
+2
+2 2
+3 3
+Your Output (stdout)
+
+First
+Tie
+Second
+Expected Output
+
+First
+Tie
+Second
+*/
