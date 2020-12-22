@@ -68,3 +68,40 @@ public class KingRichardKnights
         System.out.println(strBuffer.toString());
     }
 }
+/*OUTPUT::
+Input (stdin)
+
+7
+4
+1 2 4
+2 3 3
+3 4 1
+3 4 0
+7
+0
+6
+9
+11
+24
+25
+48
+Your Output (stdout)
+
+1 1
+1 7
+4 6
+3 4
+2 5
+2 4
+7 7
+
+Expected Output
+
+1 1
+1 7
+4 6
+3 4
+2 5
+2 4
+7 7
+*/
