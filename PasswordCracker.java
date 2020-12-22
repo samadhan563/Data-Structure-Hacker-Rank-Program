@@ -139,3 +139,29 @@ public class PasswordCracker
         }
     }
 }
+/*Output:
+Input (stdin)
+
+3
+6
+because can do must we what
+wedowhatwemustbecausewecan
+2
+hello planet
+helloworld
+3
+ab abcd cd
+abcd
+Your Output (stdout)
+
+we do what we must because we can
+WRONG PASSWORD
+ab cd
+Expected Output
+
+we do what we must because we can
+WRONG PASSWORD
+ab cd
+Compiler Message
+
+Success*/
