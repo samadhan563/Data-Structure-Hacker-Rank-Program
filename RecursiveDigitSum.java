@@ -51,3 +51,19 @@ public class RecursiveDigitSum
         scanner.close();
     }
 }
+/*Output:
+Input (stdin)
+
+148 3
+Your Output (stdout)
+
+3
+Expected Output
+
+3
+Debug output
+
+39
+12
+3
+*/
