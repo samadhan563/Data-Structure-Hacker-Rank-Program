@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class ClimbingTheLeaderboard {
     public static void main(String[] args) {
         /* Save input - discard duplicates in leaderboard */
         Scanner scan = new Scanner(System.in);
