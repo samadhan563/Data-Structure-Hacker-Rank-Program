@@ -50,3 +50,14 @@ public class MergeList
         scanner.close();
     }
 }
+
+/*Output:
+1
+2 2
+Your Output (stdout)
+
+6
+Expected Output
+
+6
+*/
