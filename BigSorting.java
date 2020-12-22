@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution 
+public class BigSorting 
 {
     public static int com(String s1, String s2)
     {
