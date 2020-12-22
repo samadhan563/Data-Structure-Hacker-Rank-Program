@@ -82,3 +82,20 @@ public class DijkstraAlgo
         return min_index;
     }
 }
+/*Output:
+Input (stdin)
+
+1
+4 4
+1 2 24
+1 4 20
+3 1 3
+4 3 12
+1
+Your Output (stdout)
+
+24 3 15 
+Expected Output
+
+24 3 15
+*/
