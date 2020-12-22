@@ -64,3 +64,18 @@ public class DownToZeroII
         
     }
 }
+/*Output::
+Input (stdin)
+
+2
+3
+4
+Your Output (stdout)
+
+3
+3
+Expected Output
+
+3
+3
+*/
