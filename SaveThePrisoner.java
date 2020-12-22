@@ -60,26 +60,3 @@ Expected Output
 2
 3
 */
-
-static void topView(Node root)
-{
-    print_left(root.left);
-    System.out.print(root.data + " ");
-    print_right(root.right);
-}
-
-static void print_left(Node root)
-{
-    if(root == null)
-        return;
-    print_left(root.left);
-    System.out.print(root.data + " ");
-}
-
-static void print_right(Node root)
-{
-    if(root == null)
-        return;
-    System.out.print(root.data + " ");
-    print_right(root.right);
-}
