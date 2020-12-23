@@ -14,8 +14,7 @@ class Node
         right = null;
     }
 }
-
-class Solution
+class SLevelOrderTraversal
 {
   static LinkedList<Node> list = new LinkedList<Node>();
 	public static void levelOrder(Node root) 
